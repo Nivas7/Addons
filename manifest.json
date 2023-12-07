@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "BMI Calculator",
+    "author": "Srinivas R",
+    "short_name": "Nivaz",
+    "description": "A simple and BMI Calculator extension! Coded by Nivaz",
+    "version": "1.0",
+    "homepage_url": "https://github.com/Nivas7/Addons",
+    "browser_action": {
+        "default_icon": {
+            "48": "icons/icon48.png",
+            "64": "icons/icon64.png"
+        },
+        "default_title": "BMI Calculator",
+        "default_popup": "index.html"
+    },
+
+    "icons": {
+        "48": "icons/icon48.png",
+        "64": "icons/icon64.png"
+    },
+
+    "page_action": {
+        "default_icon": {
+            "48": "icons/icon48.png",
+            "64": "icons/icon64.png"
+        },
+        "default_title": "BMI Calculator",
+        "default_popup": "index.html"
+    }
+}
